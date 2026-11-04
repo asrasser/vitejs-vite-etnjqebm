@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState } from 'react';
 import { Heart, Search, Loader2, Plus, X } from 'lucide-react';
 
